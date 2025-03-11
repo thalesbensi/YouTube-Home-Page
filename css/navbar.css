@@ -1,0 +1,53 @@
+nav{
+    height: 56px;
+    background-color: white;
+    padding-left: 24px;
+    padding-right: 24px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#menu-container{
+    width: 146px ;
+    height: 24px ;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#search-container{
+    width: 404px ;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+}
+
+#magnifier-container{
+        width: 57px;
+        height: 40px;
+        border: 1px solid #CCCCCC;
+        background-color: #F8F8F8;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+#search-bar{
+    width: 348px;
+    height: 40px;
+    border: 1px solid #CCCCCC;
+}
+
+#user-container{
+    width: 130px;
+    height: 34px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

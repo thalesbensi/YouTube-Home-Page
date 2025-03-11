@@ -1,0 +1,29 @@
+#aside-container{
+    width: 218px;
+    height: 968px;
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+}
+
+#aside-item-container{
+    padding: 20px;
+    margin-top: 5px;
+}
+
+#aside-item-container a {
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+}
+
+#aside-item-container img{
+    margin-right: 16px;
+}
+
+#aside-item-container span{
+    position: relative;
+    bottom: 5px;
+}
+
