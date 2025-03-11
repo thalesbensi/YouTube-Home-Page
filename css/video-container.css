@@ -1,0 +1,13 @@
+#video-container{
+    width: 1620px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+.video-item{
+    width: 100%;
+    height: auto;
+}
